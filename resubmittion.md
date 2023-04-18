@@ -1,0 +1,1 @@
+I changed the computer.py class by adding a print method, which prints out the details of the computer. I changed the oo_relate_shop.py class by making error messages which are printed when a method can't be properly ran. I also added documentation to both of these classes.
