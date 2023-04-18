@@ -40,7 +40,7 @@ class ResaleShop:
             if new_os is not None:
                 computer.operating_system = new_os
         else:
-            "This computer is not in out inventory."
+            print("This computer is not in out inventory.")
 
     """prints all the items in the inventory,if it is empty then prints error"""
     def printInv(self):
